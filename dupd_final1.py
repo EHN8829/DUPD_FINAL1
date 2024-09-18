@@ -23,7 +23,9 @@ $$\large\textbf{Método 1}$$
 $\small\text{1. Instalación de las librerías necesarias}$
 """
 
-!pip install streamlit
+#!pip install streamlit
+
+"""No se ha ejecutado, debido que al cargar 'DUPD_FINAL1.py' en el entorno de 'Streamlit Cloud', éste está DISPONIBLE. Además, se ha incluido en 'requirements.txt'."""
 
 !pip install google-api-python-client
 !pip install textblob
